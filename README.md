@@ -1,4 +1,8 @@
 # modelengineering
-# modelengineering
-# modelengineering
-# modelengineering
+COURSE: MODEL ENGINEERING DLMDSME01
+
+CASE STUDY: AUTOMATION OF STANDBY DUTY PLANNING
+
+FOR RESCUE DRIVERS VIA A FORECASTING MODEL¶
+
+Author: H. Romman
